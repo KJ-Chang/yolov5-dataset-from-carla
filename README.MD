@@ -31,7 +31,7 @@ This project uses the [CARLA Simulator](https://carla.org/) along with custom se
   
 ---
   
-## 步驟一: 啟動Carla Server | Step 1: Launch Carla Server
+## 步驟一 : 啟動Carla Server | Step 1: Launch Carla Server
 - **注意事項 | Note**  
   本專案是使用 VNC 遠端連線至無頭伺服器（headless server）上操作，並啟動 Carla Server。  
   This project is designed to run on a headless server via VNC remote connection, where the Carla Server is launched remotely.
