@@ -1,6 +1,6 @@
 """
 clean_data ---> sourcedata
-這個檔案是將原先照片(R, G, B)三層擴張成(R, G, B, 雷達深度)四、五、六..層並且儲存成 .npy 或 png 檔案
+這個檔案是將原先照片(R, G, B)三層擴張成(R, G, B, 雷達深度)四、五、七..層並且儲存成 .npy 或 png 檔案
 """
 
 import os
